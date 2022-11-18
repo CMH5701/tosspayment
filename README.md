@@ -1,4 +1,4 @@
-#Tosspayment 설명s
+<h2>Tosspayment 설명s</h2>
 
 #payment/window.html success,failUrl 자신의 프로젝트에 따라 경로 설정해줘야함.
 
